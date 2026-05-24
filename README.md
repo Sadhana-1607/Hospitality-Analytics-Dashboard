@@ -4,7 +4,7 @@
 
 This project focuses on analyzing hospitality data to understand booking trends, customer satisfaction, and occupancy rates.
 
-## 🎯 Objective
+## 🎯 Objectiveg
 
 To provide actionable insights that help improve hotel performance and customer experience.
 
@@ -19,6 +19,13 @@ To provide actionable insights that help improve hotel performance and customer 
 * Occupancy rate visualization
 * Customer satisfaction insights
 * Interactive filters and KPIs
+
+ ## How to Use
+
+1. Clone the repository:
+2. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
+3. Open hospitalitydashboards.pbix in Power BI Desktop.
+4. The dashboard will load with the included CSV datasets automatically.
 
 ## 📷 Dashboard Preview
 
